@@ -10,7 +10,7 @@ def health():
 def get_todos(): 
     return jsonify([{ 
         "id":1, 
-        "title": "WatchCSSE6400Lecture", 
+        "title": "Watch CSSE6400 Lecture", 
         "description": "Watch the CSSE6400 lecture on ECHO360 for week 1", 
         "completed": True, 
         "deadline_at": "2023-02-27T00:00:00", 
