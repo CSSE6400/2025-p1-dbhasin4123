@@ -32,4 +32,3 @@ if [ $failed -eq 1 ]; then
     echo "Repository structure is not valid. Please fix the errors above."
     exit 1
 fi
-

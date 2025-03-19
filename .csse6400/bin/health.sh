@@ -25,4 +25,3 @@ fi
 
 # Kill flask app
 kill $pid
-

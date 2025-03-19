@@ -22,4 +22,3 @@ if [ $failed -eq 1 ]; then
     echo "Please remove these files and try again."
     exit 1
 fi
-
